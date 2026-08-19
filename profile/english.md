@@ -2,7 +2,6 @@
   <sub>
     <b>Language:</b>&nbsp;&nbsp;
     <a href="english.md">English</a> /
-    <a href="../README.md">Português</a> /
     <a href="spanish.md">Spanish</a> /
     <a href="french.md">French</a>
   </sub>
