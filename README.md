@@ -8,9 +8,5 @@
   </sub>
 </p>
 
-### Olá, Eu sou Ezequiel Nascimento! 👋
-
-##
-
 ### Sobre mim
 Software Engineer com uma trajetória que começou em infraestrutura e redes e evoluiu para desenvolvimento de software.
