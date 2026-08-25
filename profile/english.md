@@ -13,3 +13,5 @@
 
 ### About me
 Software Engineer with a background that started in infrastructure and networking and evolved into software development.
+
+[ezequielnascimento.com](https://ezequielnascimento.com/)
