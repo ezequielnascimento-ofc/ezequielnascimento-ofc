@@ -14,3 +14,5 @@
 
 ### Sobre mí
 Software Engineer con una trayectoria que comenzó en infraestructura y redes y evolucionó hacia el desarrollo de software.
+
+[ezequielnascimento.com](https://ezequielnascimento.com/)
